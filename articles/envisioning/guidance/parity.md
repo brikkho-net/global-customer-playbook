@@ -34,9 +34,9 @@ It should be noted that new services are still being launched. The following tab
 
 Service Category | Services | Global Azure (WW) | Mooncake (via 21vianet)
 ---------------- | ---------------- | ---------------- | ----------------
-**Compute** | Virtual Machines | A series Basic, A series Standard, D series, <mark>DS series</mark>, Dv2 series, <mark>DSv2 series</mark>, F series, <mark>G series, N series, H series, A8/A9 network optimized, A10/A11 compute optimized</mark> | A series Basic, A series Standard, D series, Dv2 series, F series
+**Compute** | Virtual Machines | A series Basic, A series Standard, D series, <mark>DS series</mark>, Dv2 series, <mark>DSv2 series</mark>, F series, <mark>G series, N series, H series, A8 & A9 network optimized, A10 & A11 compute optimized</mark> | A series Basic, A series Standard, D series, Dv2 series, F series
   | Virtual Machine Scale Sets | ditto | ditto
-  | Cloud Services | A series Basic, A series Standard, D series Basic, Dv2 series, A8/A9 network optimized, A10/A11 compute optimized | A series Basic, A series Standard, D series Basic, Dv2 series
+  | Cloud Services | A series Basic, A series Standard, D series Basic, Dv2 series, A8 & A9 network optimized, A10 & A11 compute optimized | A series Basic, A series Standard, D series Basic, Dv2 series
   | Batch | GA | GA
   | Service Fabric | GA| GA
   | Functions | Preview | NA
@@ -62,7 +62,7 @@ Service Category | Services | Global Azure (WW) | Mooncake (via 21vianet)
  | MySQL Database on Azure | NA | MS1, MS2, MS3, MS4, MS5, MS6
 **Intelligence + Analytics** | Cortana Intelligence | GA | GA
  | Cognitive Services | Preview | Preview
- | HDInsight | HDInsight General Purpose Node, HDInsight Optimized Node, HDInsight on Linux(Preview), A10/A11 Compute Intensive Node | HDInsight General Purpose Node, HDInsight Optimized Node
+ | HDInsight | HDInsight General Purpose Node, HDInsight Optimized Node, HDInsight on Linux(Preview), A10 & A11 Compute Intensive Node | HDInsight General Purpose Node, HDInsight Optimized Node
  | Machine Learning | Free, Standard | NA
  | Stream Analytics | GA | GA
  | Data Factory | Low Frequency, High Frequency | NA
