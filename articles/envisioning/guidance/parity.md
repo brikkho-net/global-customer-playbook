@@ -57,8 +57,8 @@ Service Category | Services | Global Azure (WW) | Mooncake (via 21vianet)
  | Mobile Engagement | <mark>GA</mark> | NA
  | Azure Search | <mark>Free, Basic, Standard S1 ,Standard S2, Standard S3 (Preview)</mark> | NA
 **Databases** | SQL Database | Single database, Elastic database (Preview) | Single database, Elastic database (Preview)
- | SQL Data Warehouse | Preview | Preview
- | SQL Server Stretch Database | Preview | Preview
+ | SQL Data Warehouse | <mark>GA</mark> | Preview
+ | SQL Server Stretch Database | <mark>GA</mark> | Preview
  | Redis Cache | Basic, Standard, Premium | Basic, Standard, Premium
  | DocumentDB | GA | GA
  | MySQL Database on Azure | NA | <mark>MS1, MS2, MS3, MS4, MS5, MS6</mark>

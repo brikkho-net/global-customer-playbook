@@ -33,7 +33,7 @@ Task | Details | Check
 6. Understand your service hosting options | [Service Hosting Options](/solutions/global-customer/envisioning/guidance/performance/) | ![ud](/solutions/global-customer/media/empty-box.png)
 7. Understand the differences in the cloud operating models | [Partners](/solutions/global-customer/envisioning/guidance/partners/) | ![ud](/solutions/global-customer/media/empty-box.png)
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next stage - [Planning Stage](/solutions/global-customer/planning/validate/).
 
