@@ -22,7 +22,7 @@
 
 # Optimizing Guidance - Partners
 
-[AZURE.INCLUDE [header](../optimizing-guidance.md)]
+[AZURE.INCLUDE [header](../../../include/optimizing-guidance.md)]
 
 
 ## Network Optimization Partners
@@ -37,7 +37,7 @@ For CDN partners and CDN service on China Azure, please refer to: [Content Deliv
 For Network Optimization Partners, there is virtual tunneling technology that help to optimize overseas link for site-to-site VPN. For further information, please contact
 your Microsoft account representatives for more details.
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next stage - [Operating and Supporting Stage](/solutions/global-customer/operating-supporting/guidance/policies/).
 

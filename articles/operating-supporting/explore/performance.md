@@ -22,10 +22,10 @@
 
 # Operating And Supporting Explore - Performance
 
-[AZURE.INCLUDE [header](../operating-supporting-explore.md)]
+[AZURE.INCLUDE [header](../../../include/operating-supporting-explore.md)]
 
 During this stage, you should have already work out everything for yourapplication performance.
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next section - [Partners](/solutions/global-customer/operating-supporting/explore/partners/) .

@@ -22,7 +22,7 @@
 
 # Envisioning Explore - Performance
 
-[AZURE.INCLUDE [header](../envisioning-explore.md)]
+[AZURE.INCLUDE [header](../../../include/envisioning-explore.md)]
 
 ## The Great Firewall
 
@@ -40,6 +40,6 @@ Since all network connectivity in or outside of China must go through the Great 
 
 If you want to know more about how server hosting may be impacted, please refer to [Service Hosting Options](https://github.com/Azure/AzureGlobalConnectionCenter/blob/master/PlayBook/Envisioning/Guidance/Performance.md).
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next section - [Partners](/solutions/global-customer/envisioning/explore/partners/).

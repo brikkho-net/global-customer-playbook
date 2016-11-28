@@ -22,10 +22,10 @@
 
 # Operating And Supporting Guidance - Performance
 
-[AZURE.INCLUDE [header](../operating-supporting-guidance.md)]
+[AZURE.INCLUDE [header](../../../include/operating-supporting-guidance.md)]
 
 During this stage, you should have already work out everything for yourapplication performance.
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next section - [Partners](/solutions/global-customer/operating-supporting/guidance/partners/) .

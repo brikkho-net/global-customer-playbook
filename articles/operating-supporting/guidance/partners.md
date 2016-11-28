@@ -22,7 +22,7 @@
 
 # Operating And Supporting Guidance - Partners
 
-[AZURE.INCLUDE [header](../operating-supporting-guidance.md)]
+[AZURE.INCLUDE [header](../../../include/operating-supporting-guidance.md)]
 
 ## Operation and Support
 
@@ -32,7 +32,7 @@ Customer are expected to raise a service request (SR) through the China Azure on
 
 ### Operation and Support Workflow
 
-![img](/solutions/global-customer/media/support-workflow.png)
+![img](../../media/support-workflow.png)
 
 ### Terms and Definitions
 

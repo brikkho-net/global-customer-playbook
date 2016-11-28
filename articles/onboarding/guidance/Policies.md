@@ -22,7 +22,7 @@
 
 # Onboarding Guidance - Policies
 
-[AZURE.INCLUDE [header](../onboarding-guidance.md)]
+[AZURE.INCLUDE [header](../../../include/onboarding-guidance.md)]
 
 
 ## ICP Filing and Application with the Help from 21Vianet
@@ -31,9 +31,9 @@ If you host your web sites or services on China Azure, 21Vianet will assist you 
 
 The flow diagram below is the ICP application process:
 
-![img](/solutions/global-customer/media/icp-application.png)
+![img](../../media/icp-application.png)
 
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next section - [Parity](/solutions/global-customer/onboarding/guidance/parity/) .

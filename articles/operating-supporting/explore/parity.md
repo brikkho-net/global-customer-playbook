@@ -22,12 +22,12 @@
 
 # Operating And Supporting Explore - Parity
 
-[AZURE.INCLUDE [header](../operating-supporting-explore.md)]
+[AZURE.INCLUDE [header](../../../include/operating-supporting-explore.md)]
 
 
 During this stage, you should have already work out everything to comply with the parity.
 
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next section - [Performance](/solutions/global-customer/operating-supporting/explore/performance/).

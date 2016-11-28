@@ -22,11 +22,11 @@
 
 # Optimizing Explore - Policies
 
-[AZURE.INCLUDE [header](../optimizing-explore.md)]
+[AZURE.INCLUDE [header](../../../include/optimizing-explore.md)]
 
 There will be no optimizing work needed for the Policies area.
 
 
-![navigation](/solutions/global-customer/media/navigation.png)
+![navigation](../../media/navigation.png)
 
 Let's move to the next section - [Parity](/solutions/global-customer/optimizing/explore/parity/).
