@@ -22,7 +22,7 @@
 
 # Optimizing Guidance - Performance
 
-[AZURE.INCLUDE [header](../../../include/optimizing-guidance.md)]
+[AZURE.INCLUDE [header](../../../includes/optimizing-guidance.md)]
 
 ## Performance Testing
 

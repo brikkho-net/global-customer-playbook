@@ -22,7 +22,7 @@
 
 # Onboarding Explore - Parity
 
-[AZURE.INCLUDE [header](../../../include/onboarding-explore.md)]
+[AZURE.INCLUDE [header](../../../includes/onboarding-explore.md)]
 
 ## Differences from an Administrator Perspective
 

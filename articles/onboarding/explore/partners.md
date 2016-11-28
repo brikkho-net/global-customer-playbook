@@ -22,7 +22,7 @@
 
 # Onboarding Explore - Partners
 
-[AZURE.INCLUDE [header](../../../include/onboarding-explore.md)]
+[AZURE.INCLUDE [header](../../../includes/onboarding-explore.md)]
 
 ## Onboarding with 21Variant
 

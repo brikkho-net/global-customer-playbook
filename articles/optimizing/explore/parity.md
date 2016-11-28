@@ -22,7 +22,7 @@
 
 # Optimizing Explore - Parity
 
-[AZURE.INCLUDE [header](../../../include/optimizing-explore.md)]
+[AZURE.INCLUDE [header](../../../includes/optimizing-explore.md)]
 
 ## Optimizing for Service Parity
 

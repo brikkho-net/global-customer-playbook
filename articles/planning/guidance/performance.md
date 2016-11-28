@@ -22,7 +22,7 @@
 
 # Planning Guidance - Performance
 
-[AZURE.INCLUDE [header](../../../include/planning-guidance.md)]
+[AZURE.INCLUDE [header](../../../includes/planning-guidance.md)]
 
 
 ## China Latency Issue

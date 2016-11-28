@@ -22,7 +22,7 @@
 
 # Envisioning Explore - Parity
 
-[AZURE.INCLUDE [header](../../../include/envisioning-explore.md)]
+[AZURE.INCLUDE [header](../../../includes/envisioning-explore.md)]
 
 ## China Azure (Mooncake) Services
 

@@ -22,7 +22,7 @@
 
 # Planning Explore - Parity
 
-[AZURE.INCLUDE [header](../../../include/planning-explore.md)]
+[AZURE.INCLUDE [header](../../../includes/planning-explore.md)]
 
 ## Differences from a Developer Perspective
 

@@ -22,7 +22,7 @@
 
 # Planning Explore - Performance
 
-[AZURE.INCLUDE [header](../../../include/planning-explore.md)]
+[AZURE.INCLUDE [header](../../../includes/planning-explore.md)]
 
 
 ## China Latency Issue

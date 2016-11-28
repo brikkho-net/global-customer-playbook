@@ -22,7 +22,7 @@
 
 # Optimizing Explore - Performance
 
-[AZURE.INCLUDE [header](../../../include/optimizing-explore.md)]
+[AZURE.INCLUDE [header](../../../includes/optimizing-explore.md)]
 
 ## Performance Testing
 

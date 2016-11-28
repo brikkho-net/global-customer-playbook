@@ -22,7 +22,7 @@
 
 # Onboarding Guidance - Performance
 
-[AZURE.INCLUDE [header](../../../include/onboarding-guidance.md)]
+[AZURE.INCLUDE [header](../../../includes/onboarding-guidance.md)]
 
 
 ## China Latency Issue

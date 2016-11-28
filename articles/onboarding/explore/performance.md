@@ -22,7 +22,7 @@
 
 # Onboarding Explore - Performance
 
-[AZURE.INCLUDE [header](../../../include/onboarding-explore.md)]
+[AZURE.INCLUDE [header](../../../includes/onboarding-explore.md)]
 
 
 ## China Latency Issue

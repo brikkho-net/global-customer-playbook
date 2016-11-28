@@ -22,7 +22,7 @@
 
 # Optimizing Guidance - Parity
 
-[AZURE.INCLUDE [header](../../../include/optimizing-guidance.md)]
+[AZURE.INCLUDE [header](../../../includes/optimizing-guidance.md)]
 
 
 ## Optimizing for Service Parity

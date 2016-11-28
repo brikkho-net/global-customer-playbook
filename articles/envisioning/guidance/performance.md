@@ -22,7 +22,7 @@
 
 # Envisioning Guidance - Performance
 
-[AZURE.INCLUDE [header](../../../include/envisioning-guidance.md)]
+[AZURE.INCLUDE [header](../../../includes/envisioning-guidance.md)]
 
 ## The Great Firewall
 

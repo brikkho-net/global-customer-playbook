@@ -22,7 +22,7 @@
 
 # Planning Guidance - Partners
 
-[AZURE.INCLUDE [header](../../../include/planning-guidance.md)]
+[AZURE.INCLUDE [header](../../../includes/planning-guidance.md)]
 
 ## Cloud Operation Partner - 21Vianet
 
