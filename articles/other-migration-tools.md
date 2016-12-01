@@ -32,6 +32,6 @@ If you have classic ASM IaaS resources, it is highly recommended that you first 
 </br>
 </br>
 
-![navigation](media/navigation.png)
+![navigation](./media/navigation.png)
 
 Back to the [Migration Assistant](/solutions/global-customer/migration-assistant/) .
